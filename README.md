@@ -19,6 +19,10 @@ It's the fastest, largest, most expensive, and most powerful computers available
 The term comes from the large cabinet ("main frame") that housed the CPU and main memory of early computers; used by large organizations for bulk data processing (banking, census).
 * **Minicomputer**
 They are smaller and less costly than a mainframe, capable of multitasking and supporting multiple simultaneous users, typically used by small/medium businesses.
+* **Microcomputer**
+The PCs found in homes, schools, and small offices today, designed to be used by one person at a time, cheaper, faster, and more energy-efficient than mini/mainframe computers. Includes desktops, laptops, and tablets.
+
+https://www.pcworld.com/article/402884/why-you-need-a-modern-pc.html
 
 ## History of Computers (Generations)
 * ***1st Gen (1946-1959):***
