@@ -8,6 +8,8 @@ This repository documents the fundamentals of computers; it discusses what they 
 * A computer is an electronic device that accepts input, processes it according to instructions (a program), stores data, and produces output.
 * Works on the IPO cycle: Input → Process → Output.
 * Key characteristics: speed (performs millions of calculations per second), accuracy, diligence (doesn't get tired), storage capacity, and automation (performs tasks automatically once programmed).
+* Two main components: Hardware (physical parts include CPU, keyboard, monitor) and Software (programs/instructions that control hardware).
+* Limitations: It depends on electricity, cannot think or make decisions on its own, and carries security/privacy risks.
 
 ## Types of Computers
 By physical size/processing power:
