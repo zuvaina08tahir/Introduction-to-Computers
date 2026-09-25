@@ -33,3 +33,5 @@ They were transistor-based, replacing vacuum tubes; transistors are more compact
 Integrated Circuit (IC) based, more reliable, smaller, faster, generated less heat, and consumed less electricity than earlier generations.
 * ***4th Gen (1971-1980):***
 They used VLSI (Very Large Scale Integration) circuits with thousands of transistors on a single chip, enabling microcomputers; this generation gave rise to the Personal Computer revolution.
+* ***5th Gen (1980-present):***
+ULSI microprocessor based; associated with AI, parallel processing, and modern computing.
